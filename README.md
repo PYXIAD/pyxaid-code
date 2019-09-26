@@ -18,3 +18,7 @@ using the tags (#libra, #libra-x, #pyxaid, #pyxaid2) and perhaps some general ta
 
 This is only a test practice, I don't know how well it'll go, but lets try it. If you have ideas and suggestions for 
 a better forum platform, please email me. 
+
+
+# para-pyxaid branch
+On 6/16/2018, Dr. Dave Turner has added the parallel version of the Pyxaid.
